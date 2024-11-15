@@ -6,7 +6,8 @@ document.addEventListener("DOMContentLoaded", () => {
         '.cookie-popup', 
         '.cookie-notice', 
         '[id*="cookie"]', 
-        '[class*="cookie"]'
+        '[class*="cookie"]',
+        '[class*="consent"]'
     ];
 
     // Function to hide elements matching the selectors
