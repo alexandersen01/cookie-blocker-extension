@@ -7,6 +7,7 @@ document.addEventListener("DOMContentLoaded", () => {
         '.cookie-notice', 
         '[id*="cookie"]', 
         '[class*="cookie"]',
+        '[class*="Cookie"]',
         '[class*="consent"]'
     ];
 
