@@ -1,0 +1,3 @@
+#cookie-banner, .cookie-banner, .cookie-consent, .cookie-popup, .cookie-notice {
+    display: none !important;
+}
