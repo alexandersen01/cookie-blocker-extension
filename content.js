@@ -8,6 +8,7 @@ document.addEventListener("DOMContentLoaded", () => {
         '[id*="cookie"]', 
         '[class*="cookie"]',
         '[class*="Cookie"]',
+        '[class*="fides"]',
         '[class*="consent"]'
     ];
 
